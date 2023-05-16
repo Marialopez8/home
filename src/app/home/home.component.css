@@ -90,7 +90,7 @@ nav a:hover {
     background-color: rgb(0, 0, 0);
     text-align: center;
     align-items: center;
-    padding: 0.9% 0%;
+    padding: 0.5% 0%;
 }
 
 #encabezado nav {
@@ -172,7 +172,7 @@ body {
 
 .contenedor_logo {
     position: absolute;
-    top: 1%;
+    top: 5%;
     left: 60%;
 }
 
