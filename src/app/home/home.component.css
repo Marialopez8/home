@@ -82,7 +82,7 @@ nav a:hover {
 #encabezado {
     display: flex;
     position: absolute;
-    top: 15%;
+    top: 14%;
     left: 0px;
     height: 7%;
     min-height: 7%;
@@ -96,7 +96,7 @@ nav a:hover {
 #encabezado nav {
     text-align: center;
     align-items: center;
-    margin: 10%;
+    margin: 30%;
 }
 
 #encabezado a {
@@ -122,9 +122,9 @@ body {
 
 .contenedor__item {
     width: 80%;
-    position: relative;
-    top: 130px;
-    right: 240px;
+    position: absolute;
+    top: 190px;
+    left: 0px;
     margin: auto;
     margin-bottom: 10px;
 }
@@ -140,7 +140,7 @@ body {
     text-align: center;
     align-items: center;
     color: white;
-    left: 70%;
+    left: 60%;
     top: 12%;
     /* top: 50px; */
     font: condensed 150% time;
@@ -154,8 +154,8 @@ body {
     background-color: rgba(217, 217, 217, 30%);
     text-align: left;
     align-items: left;
-    left: 20%;
-    top: 30%;
+    left: 15%;
+    top: 20%;
     color: rgb(255, 255, 255);
     font-style: Fauna One;
     font-size: 17pt;
@@ -173,7 +173,7 @@ body {
 .contenedor_logo {
     position: absolute;
     top: 1%;
-    left: 70%;
+    left: 60%;
 }
 
 .contenedor_personajes {
@@ -199,8 +199,8 @@ body {
 
 .contenedor__boton {
     position: absolute;
-    top: 60%;
-    left: 30%;
+    top: 40%;
+    left: 25%;
     /* width: 70%;
     height: auto; */
     margin-bottom: 30px 30px;
@@ -209,7 +209,7 @@ body {
 
 footer {
     display: flex;
-    bottom: -50%;
+    bottom: -55%;
     height: 10%;
     width: 100%;
     background-color: rgb(255, 255, 255);
